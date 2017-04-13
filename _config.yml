@@ -1,0 +1,21 @@
+# Site settings
+title: Girl Meets <Hello World/>
+header-img: img/home-bg.png
+email: jennimacklin@hotmail.com
+copyright_name: jlmack13
+description: > # this means to ignore newlines until "baseurl:"
+  It's dangerous to go alone, read this!
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  jlmack13
+learn_profile: jlmack13
+email_username: jennimacklin@hotmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
