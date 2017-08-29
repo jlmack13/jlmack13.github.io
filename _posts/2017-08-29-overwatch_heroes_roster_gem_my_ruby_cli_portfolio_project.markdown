@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Overwatch Heroes Roster Gem: My Ruby CLI Portfolio Project"
-date:   2017-08-29 01:26:26 +0000
+date:   2017-08-28 21:26:27 -0400
 ---
 
 
