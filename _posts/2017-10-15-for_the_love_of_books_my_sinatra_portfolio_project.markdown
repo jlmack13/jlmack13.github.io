@@ -5,15 +5,15 @@ date:       2017-10-15 14:38:28 -0400
 permalink:  for_the_love_of_books_my_sinatra_portfolio_project
 ---
 
-# Guest Starring: Sass (and a lot of Harry Potter gifs)
+## Guest Starring: Sass (and a lot of Harry Potter gifs)
 
 Hello again. It’s time for another post about building a portfolio project!
 
-# The Challenge
+## THE CHALLENGE
 
 The challenge this time was to build an MVC app using Sinatra and ActiveRecord. The app had to have multiple models, at least one has_many relationship, and users (who could only edit their own content).  
 
-# The Backstory
+## THE BACKSTORY
 Earlier in this, my 29th year, I set myself the task of reading 100 books before my next birthday. One year. One hundred books. 
 
 I’ve tried some version of this goal several times before, usually as part of a New Year’s resolution (we all know how well *those* turn out). 
@@ -30,7 +30,7 @@ Prior to this project, and heck even this bootcamp, I’d wanted to make a book 
 
 This app is what I can do *now*, and since that is a heck of a lot more than I could do before I think that’s cause to celebrate! In the future, I hope to take this idea and keep building on it until it is that starry-eyed vision of an app I know it can be. But I digress, let’s get back to the present and I’ll tell you about what this app can do *right now*.
 
-# The App
+## THE APP
 
 With this app you can create an account to track all the books you read, with the idea being that once you finish a book you add it to your list (and get one book closer to your goal, good job!). 
 
@@ -38,7 +38,7 @@ The app is private to the individual user, only you can see (and edit or delete)
 
 You can add details to each book, if you wish, or you simply add the title and call it a day. The details you can track include: author, length of the book, what format you read the book in (paperback, etc.), and whether or not the book is one of your favorites. 
 
-# The Build Process
+## THE BUILD PROCESS
 As per usual, the first thing I did when starting this project was to think *a lot*. And then take a lot of notes. I found this [great article](http://blog.flatironschool.com/how-to-build-a-sinatra-web-app-in-10-steps/) by another Learn student (yay!) that helped me wrap my head around the structure I would need and the first steps I needed to take. It was a really good resource and I highly recommend it to anyone who needs a refresher or just wants to double check they’ve got all the right stuff set up on their project. 
 
 Next, as I did with my last project, I created a Trello board to help me organize, plan, and keep the build process on track. This has been enormously helpful in getting my brain wrapped around a project. I usually start by writing out the requirements for the project and a checklist of the items I need to turn in. Then I create various boards for research, planning, building, etc. It really depends on the project and how organized my thinking is by the time I get to the Trello board. Most of it is useful, some of it never even makes it into the project, but its the best way I’ve found so far to plan my projects. 
@@ -49,7 +49,7 @@ To get started coding, I essentially went through the steps described in the art
 
 After that I started working on my Users. First I created the controller and filled out the first controller actions, I created a very bare bones view to test everything out and then I moved on to the next one. I continued this pattern of creating the action, building the view, and testing it out until I’d completed the user controller. In between, I did a little bit of styling as well. Although not necessary at this point, it helped me from a visual standpoint during the testing process. Once I was satisfied the with the users functionality, I repeated the same steps for books. 
 
-# The Bugs (!)
+## THE BUGS (!)
 Of course the entire project didn’t go so smoothly, right from the start I encountered bugs and hiccups. During the beginning of the project, I was trying to test out my models, to make sure I had set them and my tables up correctly. Naturally, I run ‘tux’ in my console…only…wait a minute…I run into this:
 
 `cannot infer baspath (LoadError) `
@@ -61,7 +61,7 @@ Well that’s new! I did some googling and started to get the impression that it
 Hooray! Don’t you just love that feeling of detective work you get when you solve an issue? 
 
 
-# The Glorious Finale
+## THE GLORIOUS FINALE
 
 After much building and testing (and building and testing), my app works and is ready for submission. But wait! Didn’t I mention Sass was going to guest star in this post? Time to talk about styling!
 
