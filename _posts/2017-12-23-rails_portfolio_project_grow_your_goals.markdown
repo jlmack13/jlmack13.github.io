@@ -55,7 +55,7 @@ Sure enough, there it was…the word “action” under unlisted reserved keywor
 
 And when I changed the model name from “action” to “task”…voila! It’s works. No more angry errors. 
 
-**TL;DR Always check to make sure your model names aren’t reserved keyword. *facepalm* **
+**TL;DR Always check to make sure your model names aren’t reserved keyword. **
 
 That was by and large, the worst of the troubles I encountered during the course of the project, and after I got it figured it out it was smooth sailing until the end. 
 
