@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Portfolio Project: Grow Your Goals"
-date:       2017-12-23 15:48:39 +0000
+date:       2017-12-23 10:48:40 -0500
 permalink:  rails_portfolio_project_grow_your_goals
 ---
 
